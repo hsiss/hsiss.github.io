@@ -3,6 +3,11 @@ layout: default
 ---
 <h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date: "%Y-%m-%d" }}</p>
+<p class="meta">Tags:
+{% for tag in page.tags %}
+  <span>{{ tag }}</span>
+{% endfor %}
+</p>
 
 <div class="post">
 {{ content }}
