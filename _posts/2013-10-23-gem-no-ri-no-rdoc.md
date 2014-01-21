@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "gem安装的时候不要安装ri和rdoc"
+tags: [ ruby ]
 ---
 
 修改~/.gemrc,最后增加一行gem: --no-ri --no-rdoc

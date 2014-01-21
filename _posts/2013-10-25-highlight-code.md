@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "网页上语法高亮"
+tags: [前端]
 ---
 
 ## 用javascript前端实现的语法高亮

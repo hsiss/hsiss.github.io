@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "用jekyll写博客"
+tags: [工具]
 ---
 
 
@@ -29,6 +30,8 @@ gem install jekyll
 ## 本地运行
 `jekyll server -w`
 
+## 源码
+https://github.com/hsiss/hsiss.github.io
 
 ## 参考资料
 1. https://github.com/mojombo/jekyll

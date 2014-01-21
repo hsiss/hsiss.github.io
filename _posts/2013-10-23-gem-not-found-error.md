@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "错误：Could not locate Gemfile"
+tags: [ ruby ]
 ---
 
 现象：
